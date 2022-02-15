@@ -1,3 +1,6 @@
+
+
+
 .container-header{
     width: 100%;
     height: 100px;
@@ -19,10 +22,189 @@ figure > span{
 }
 
 .container-main{
-    width: 1000px;
-    height: 1000px;
-    background-color: gray;
+    width:100%;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.212);;
     
 
     
 }
+
+.container-task{
+    width: 1100px;
+    height: 1000px;
+    display: inline-block;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 200px;
+    borde
+    
+    
+    
+}
+
+div > button{
+    margin-top: 30px;
+    position: relative;
+    left: 60px;
+    bottom:10px;
+    
+}
+
+.container-button{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.212);
+
+}
+
+.button-1{
+    
+color: white;
+background-color: #0099CC;
+border: 1px solid #0099CC;
+border-radius: 5px;
+text-transform: uppercase;
+font-size: 18px;
+font-weight: 600;
+font-family:'Dongle', sans-serif;  
+
+}
+ .button-2{
+    color: lightgrey;
+    background-color: white;
+    border: 1px solid  gray;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif;
+    
+    
+ }
+
+ .container-mix{
+     margin-left: 70px;
+     
+     
+ }
+
+ .arrow{
+    font-size:20px ;
+    font-family:'Dongle', sans-serif ;
+ }
+
+ h2{
+     font-size: 50px;
+     font-family:'Dongle', sans-serif ;
+     
+     
+ }
+
+ 
+ .subtext{
+    width: 500px;
+    height: 50px;
+    position: relative;
+    bottom: 50px;
+    
+ }
+
+ .check{
+     
+      padding: 4px;
+      color: green;
+      text-align: center;
+      border: 1px solid green;
+      border-radius: 50%;
+      
+     
+ }
+
+ .cross{
+    padding: 4px;
+    color: red;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 50%;
+
+ }
+ 
+ .info-editorial{
+    color: white;
+    background-color: #0099CC;
+    border: 6px solid #0099CC;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+
+ }
+
+ .info-goals{
+    color: white;
+    background-color: #7a00cc;
+    border: 6px solid #7a00cc;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+
+ }
+
+ .info-recruting{
+    color: white;
+    background-color: #00cc7e;
+    border: 6px solid #00cc7e;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+
+ }
+ .info-mobile{
+    color: white;
+    background-color: orange;
+    border: 6px solid orange ;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+
+ }
+
+ .info-website{
+    color: white;
+    background-color: pink;
+    border: 6px solid pink ;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+
+ }
+ .info-sales{
+    color: white;
+    background-color: rgb(39, 136, 39);
+    border: 6px solid rgb(39, 136, 39) ;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Dongle', sans-serif; 
+ }
+
+
+ .couple{
+     position: relative;
+     bottom: 100px;
+ }
+ .couple2{
+    position: relative;
+    bottom: 200px;
+}
+
+ 
