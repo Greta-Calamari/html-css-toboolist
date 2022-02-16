@@ -36,7 +36,7 @@ figure > span{
     display: inline-block;
     background-color: white;
     margin-top: 40px;
-    margin-left: 200px;
+    margin-left: 700px;
     borde
     
     
@@ -71,7 +71,7 @@ font-family:'Dongle', sans-serif;
  .button-2{
     color: lightgrey;
     background-color: white;
-    border: 1px solid  gray;
+    border: 1px solid  #e0e3e6 ;
     border-radius: 5px;
     text-transform: uppercase;
     font-size: 18px;
@@ -141,8 +141,8 @@ font-family:'Dongle', sans-serif;
  .info-editorial{
     color: white;
     background-color: #0099CC;
-    border: 6px solid #0099CC;
     border-radius: 50px;
+    padding: 5px 8px;
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 600;
@@ -152,9 +152,9 @@ font-family:'Dongle', sans-serif;
 
  .info-goals{
     color: white;
-    background-color: #7a00cc;
-    border: 6px solid #7a00cc;
+    background-color: #9c72e4;
     border-radius: 50px;
+    padding: 5px 8px;
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 600;
@@ -164,8 +164,8 @@ font-family:'Dongle', sans-serif;
 
  .info-recruting{
     color: white;
-    background-color: #00cc7e;
-    border: 6px solid #00cc7e;
+    background-color: #b0c926;
+    padding: 5px 10px;
     border-radius: 50px;
     text-transform: uppercase;
     font-size: 18px;
@@ -175,8 +175,8 @@ font-family:'Dongle', sans-serif;
  }
  .info-mobile{
     color: white;
-    background-color: orange;
-    border: 6px solid orange ;
+    background-color: #f29e33;
+    padding: 5px 15px;
     border-radius: 50px;
     text-transform: uppercase;
     font-size: 18px;
@@ -187,8 +187,8 @@ font-family:'Dongle', sans-serif;
 
  .info-website{
     color: white;
-    background-color: pink;
-    border: 6px solid pink ;
+    background-color: #d863a1;
+    padding: 5px 15px;
     border-radius: 50px;
     text-transform: uppercase;
     font-size: 18px;
@@ -199,7 +199,7 @@ font-family:'Dongle', sans-serif;
  .info-sales{
     color: white;
     background-color: rgb(39, 136, 39);
-    border: 6px solid rgb(39, 136, 39) ;
+    padding: 5px 15px;
     border-radius: 50px;
     text-transform: uppercase;
     font-size: 18px;
